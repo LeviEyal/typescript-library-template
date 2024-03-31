@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/LeviEyal/typescript-library-template/compare/v1.0.0...v1.1.0) (2024-03-31)
+
+
+### Features
+
+* test action ([5403a33](https://github.com/LeviEyal/typescript-library-template/commit/5403a334081fb6eb73c7a1994d60ba4f2ec0742a))
+
 ## 1.0.0 (2024-03-31)
 
 
