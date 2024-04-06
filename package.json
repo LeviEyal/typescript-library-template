@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A template for creating typescript NPM libraries",
   "main": "lib/index.cjs.js",
+  "private": false,
   "module": "lib/index.esm.js",
   "browser": "lib/index.umd.js",
   "typings": "lib/src/index.d.ts",
