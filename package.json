@@ -1,7 +1,7 @@
 {
   "name": "@happyeyal/typescript-package-starter",
   "version": "1.2.1",
-  "description": "A template for creating typescript NPM libraries",
+  "description": "My awesome typescript package",
   "main": "lib/index.cjs.js",
   "private": false,
   "module": "lib/index.esm.js",
