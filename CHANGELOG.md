@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/LeviEyal/typescript-library-template/compare/v1.2.0...v1.2.1) (2024-04-06)
+
+
+### Bug Fixes
+
+* change package name ([28339ed](https://github.com/LeviEyal/typescript-library-template/commit/28339edf962343b76957cb3bd16b65fce06e4c03))
+
 ## [1.2.0](https://github.com/LeviEyal/typescript-library-template/compare/v1.1.0...v1.2.0) (2024-03-31)
 
 
