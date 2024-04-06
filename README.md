@@ -15,7 +15,6 @@
 | <img src="https://vitest.dev/favicon.ico" alt="Vitest" width="30" height="30"> | Vitest |
 | <img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="Prettier" width="30" height="30"> | Code Linting |
 | 🐶 | Pre-commit Hooks |
-| <img src="chrome-extension://khckkdgomkcjjnpgjmdmbceiddlmiolb/changelog.svg" alt="Release Please" width="30" height="30"> | Generate the changelog with the release-please workflow |
 | <img src="https://github.githubassets.com/favicons/favicon.svg" alt="Github Actions" width="30" height="30"> | Releasing versions to NPM |
 | <img src="https://editorconfig.org/favicon.ico" alt="EditorConfig" width="30" height="30"> | Consistent coding styles across different editors |
 | <img src="https://prettier.io/icon.png" alt="Prettier" width="30" height="30"> | Code Formatting |
