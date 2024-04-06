@@ -1,7 +1,6 @@
 <div align="center">
 
 # 🚀 Typescript NPM Library Template
-
 [![npm](https://img.shields.io/npm/v/@happyeyal/typescript-package-starter?style=flat-square)](https://www.npmjs.com/package/@happyeyal/typescript-package-starter)
 [![npm](https://img.shields.io/npm/dt/@happyeyal/typescript-package-starter?style=flat-square)](https://www.npmjs.com/package/@happyeyal/typescript-package-starter)
 [![npm](https://img.shields.io/npm/l/@happyeyal/typescript-package-starter?style=flat-square)](https://www.npmjs.com/package/@happyeyal/typescript-package-starter)
@@ -10,17 +9,16 @@
 </div>
 
 ## Features
-
-| Tool                                                                                                                             | Description                                       |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" width="30" height="30"> | Typescript                                        |
-| <img src="https://vitest.dev/favicon.ico" alt="Vitest" width="30" height="30">                                                   | Vitest                                            |
-| <img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="Prettier" width="30" height="30">                | Code Linting                                      |
-| 🐶                                                                                                                               | Pre-commit Hooks                                  |
-| <img src="https://github.githubassets.com/favicons/favicon.svg" alt="Github Actions" width="30" height="30">                     | Releasing versions to NPM                         |
-| <img src="https://editorconfig.org/favicon.ico" alt="EditorConfig" width="30" height="30">                                       | Consistent coding styles across different editors |
-| <img src="https://prettier.io/icon.png" alt="Prettier" width="30" height="30">                                                   | Code Formatting                                   |
-| <img src="https://rollupjs.org/rollup-logo.svg" alt="Rollup" width="30" height="30">                                             | Module bundler for JavaScript                     |
+| Tool | Description |
+| --- | --- |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" width="30" height="30"> | Typescript |
+| <img src="https://vitest.dev/favicon.ico" alt="Vitest" width="30" height="30"> | Vitest |
+| <img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="Prettier" width="30" height="30"> | Code Linting |
+| 🐶 | Pre-commit Hooks |
+| <img src="https://github.githubassets.com/favicons/favicon.svg" alt="Github Actions" width="30" height="30"> | Releasing versions to NPM |
+| <img src="https://editorconfig.org/favicon.ico" alt="EditorConfig" width="30" height="30"> | Consistent coding styles across different editors |
+| <img src="https://prettier.io/icon.png" alt="Prettier" width="30" height="30"> | Code Formatting |
+| <img src="https://rollupjs.org/rollup-logo.svg" alt="Rollup" width="30" height="30"> | Module bundler for JavaScript |
 
 ## Getting Started
 
@@ -76,7 +74,6 @@ Example: `git commit -m "chore: v1.2.0" -m "Release-As: 1.2.0"`
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/LeviEyal)
 
 ## License
-
 [MIT](LICENSE)
 
 ## Support
