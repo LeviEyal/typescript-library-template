@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.4.0](https://github.com/LeviEyal/typescript-library-template/compare/v1.3.0...v1.4.0) (2024-04-06)
+
+
+### Features
+
+* Update readme file ([2d6afec](https://github.com/LeviEyal/typescript-library-template/commit/2d6afeca3c31d2bf0c29de4ff9d5a8c410166d91))
+* Update readme file ([c7ba383](https://github.com/LeviEyal/typescript-library-template/commit/c7ba383d67f1f18937cc7e6168dcb6ef8dcd956a))
+* Update readme file ([f88f199](https://github.com/LeviEyal/typescript-library-template/commit/f88f199e800684213352824a9e751575b4cc0610))
+* Update workflow file ([a68ebb6](https://github.com/LeviEyal/typescript-library-template/commit/a68ebb6b06c1781dd59f2e68c87aaee02637f8f3))
+* Update workflow file ([3c91f95](https://github.com/LeviEyal/typescript-library-template/commit/3c91f952ed73dd879de6221be3e3e92b5cf12c4c))
+
+
+### Bug Fixes
+
+* Update readme file ([3a655c3](https://github.com/LeviEyal/typescript-library-template/commit/3a655c3e486ac13406266969d2d13496ace7e80c))
+* Update workflow file ([a90f052](https://github.com/LeviEyal/typescript-library-template/commit/a90f052efb5859263cc1761fbb427e6201a01814))
+
 ## [1.3.0](https://github.com/LeviEyal/typescript-library-template/compare/v1.2.1...v1.3.0) (2024-04-06)
 
 
