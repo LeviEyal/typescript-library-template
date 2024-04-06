@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.2.0](https://github.com/LeviEyal/typescript-library-template/compare/v1.1.0...v1.2.0) (2024-04-06)
+
+
+### Features
+
+* bootsrap project ([5761824](https://github.com/LeviEyal/typescript-library-template/commit/57618241b72bb889d9598ac4a12ccf725b31c220))
+* test action ([3842b87](https://github.com/LeviEyal/typescript-library-template/commit/3842b875840a96119e1bb0fd30218803806f6915))
+* Update package name and version ([a6206c3](https://github.com/LeviEyal/typescript-library-template/commit/a6206c3e3789bdf178ecbe3dd216811fac8a800a))
+
+
+### Bug Fixes
+
+* change package description ([8f458b4](https://github.com/LeviEyal/typescript-library-template/commit/8f458b40f0e5e60730dcc425b3d459d2c3c5efbc))
+* change package name ([20d22d4](https://github.com/LeviEyal/typescript-library-template/commit/20d22d442ce1be21e25d9fea516e6a610f8e0f99))
+* make package public ([e048b46](https://github.com/LeviEyal/typescript-library-template/commit/e048b468902897f02aaf331a9896c0494bfa88ef))
+
 ## [1.1.0](https://github.com/LeviEyal/typescript-library-template/compare/v1.0.0...v1.1.0) (2024-04-06)
 
 
